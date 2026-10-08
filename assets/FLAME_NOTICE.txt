@@ -1,0 +1,9 @@
+FLAME 2023 Open model
+Source: https://flame.is.tue.mpg.de/
+Copyright: Max Planck Society / Max Planck Institute for Intelligent Systems.
+Model license: https://flame.is.tue.mpg.de/modellicense.html (Open Model License section).
+Published as CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Consult the full source terms, including their additional use restrictions.
+Reference: Li, Bolkart, Black, Li, Romero (2017). Learning a model of facial shape and expression from 4D scans. ACM TOG 36(6), 194. DOI:10.1145/3130800.3130813
+Changes: neutral template and first 300 identity directions converted from metres to mm and stored as NumPy arrays; expression/pose and unused data removed; approximate vertex landmarks and a nose-region selection added.
+This is not a validated nasal reconstruction model. Patient-specific geometry is not included in this asset.
