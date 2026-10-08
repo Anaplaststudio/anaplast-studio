@@ -1,0 +1,12 @@
+Ocular macro reference photographs — CC BY-SA 3.0
+
+Iris of the Human Eye, Mcorrens (8 October 2009)
+https://commons.wikimedia.org/wiki/File:Iris_of_the_Human_Eye.jpg
+
+Close-up Image of a Human Iris, Shillier (24 March 2012)
+https://commons.wikimedia.org/wiki/File:Close-up_Image_of_a_Human_Iris.jpg
+
+Both original photographs are distributed unmodified under Creative Commons Attribution-ShareAlike 3.0 Unported:
+https://creativecommons.org/licenses/by-sa/3.0/
+
+Demo artwork modifies these photographs by iris extraction, annular remapping, optional reflection/upper-sector reconstruction, and compositing onto an ocular surface. Derived demo artwork and renders are also CC BY-SA 3.0. Attribution and this license must accompany redistribution of the reference images or derived artwork. No endorsement by the photographers is implied. These are public examples, not photographs of the user's patients. Patient-photo inputs are independent of these reference licenses.

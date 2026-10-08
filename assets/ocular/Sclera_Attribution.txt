@@ -1,0 +1,7 @@
+﻿Brown human eye.jpg — Rnbc (original upload 5 November 2006)
+https://commons.wikimedia.org/wiki/File:Brown_human_eye.jpg
+Original download: https://upload.wikimedia.org/wikipedia/commons/2/22/Brown_human_eye.jpg
+License: Creative Commons Attribution-ShareAlike 3.0 Unported
+https://creativecommons.org/licenses/by-sa/3.0/
+
+The bundled reference photograph is unmodified. The example scleral texture and renders adapt it through registration, exposure adjustment, eyelid/eyelash masking, blending, and compositing with the separate iris photograph. These derived color maps and renders are distributed under CC BY-SA 3.0. Keep attribution and the license with redistributed derived artwork. No endorsement by Rnbc is implied. This is an external reference, not a patient-matched photograph.
