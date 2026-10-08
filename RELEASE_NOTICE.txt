@@ -1,0 +1,7 @@
+Experimental preview — not clinically validated
+
+Anaplast Studio is an open-source Blender add-on under development for digital workflows in anaplastology and maxillofacial prosthetics.
+
+This release is provided for education and technical evaluation using synthetic demonstration models. Its safety, accuracy and suitability for patient treatment have not been clinically validated.
+
+Qualified clinicians must exercise independent clinical judgment and critically assess outputs. Clinical judgment does not replace the validation or regulatory requirements applicable to patient treatment.

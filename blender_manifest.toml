@@ -1,0 +1,15 @@
+schema_version = "1.0.0"
+
+id = "b4d_anaplastology"
+version = "1.0.0"
+name = "Anaplast Studio"
+tagline = "Mold toolkit and case workflow for facial prosthetics"
+maintainer = "Mohammed Alshethry <support@anaplaststudio.com>"
+type = "add-on"
+license = ["SPDX:GPL-3.0-or-later"]
+blender_version_min = "5.2.0"
+tags = ["Modeling", "Object"]
+
+[permissions]
+files = "Read models and photos; save projects, templates and exports"
+
